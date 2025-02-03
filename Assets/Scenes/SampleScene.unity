@@ -458,6 +458,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSpeed: 200
+  rotationPoint: {x: 20, y: 50, z: 2}
 --- !u!212 &1721573400
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -559,6 +560,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSpeed: 150
+  rotationPoint: {x: 0, y: 0, z: 0}
 --- !u!212 &1857263861
 SpriteRenderer:
   m_ObjectHideFlags: 0
